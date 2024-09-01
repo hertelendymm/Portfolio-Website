@@ -5,5 +5,5 @@ https://hertelendymm.netlify.app/
 
 ## The new figma design:
 <p align="center">
-<img src="/images/CV4Github"/>
+<img src="/images/CV4Github.png"/>
 </p>
