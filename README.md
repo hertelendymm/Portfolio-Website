@@ -7,3 +7,4 @@ https://hertelendymm.netlify.app/
 <p align="center">
 <img src="/images/CV4Github.png"/>
 </p>
+Still a work in progress
